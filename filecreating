@@ -1,0 +1,21 @@
+On GitHub.com, navigate to the main page of the repository.
+
+In your repository, browse to the folder where you want to create a file by selecting the creating a new file link or uploading an existing file.
+
+Once added, above the list of files select the Add file ᐁ drop-down menu. Then select Create new file.
+
+A screenshot of the option to add a file to your new repository highlighted in red with the add file button towards the right of the screen.
+
+In the file name field, type the name and extension for the file. To create subdirectories, type the / directory separator.
+
+In the file contents text box, type content for the file.
+
+To review the new content, above the file contents, select Preview.
+
+Screenshot showing a yml file with the preview button highlighted in the top left.
+
+Select Commit changes
+
+In the Commit message field, type a short and meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
+
+If you have more than one email address associated with your account on GitHub.com, select the email address drop-down menu. Then select the email address to use as the Git author email address. Only verified email addresses appear in this drop-down menu. If you enabled email address privacy, then [username]@users.noreply.github.com is the default commit author email address.
